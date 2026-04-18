@@ -3,6 +3,8 @@
 A **Deep Learning based web application** that detects potato leaf diseases from images using a trained **Convolutional Neural Network (CNN)** model.
 The application is built with **TensorFlow/Keras** and deployed using **Streamlit** for an interactive web interface.
 
+<img width="2559" height="1274" alt="Screenshot 2026-04-08 122011" src="https://github.com/user-attachments/assets/01b9d84b-bcc0-47c8-a38c-2efacd494ac4" />
+
 ---
 
 ## 📌 Project Overview
